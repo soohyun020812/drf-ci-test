@@ -1,1 +1,1 @@
-# drf_ci-cd-test
+# drf-ci-test
